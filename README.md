@@ -1,2 +1,2 @@
-# Assembly-Airbender-Game
+# INTERACTIVE CHARACTER PROGRAM 
 In this game, you must travel a 100 miles in 30 days with your loyal sky bison, Appa, without starving or running out of food and health. You have three choices: 1) Travel, which covers distance but consumes food and health, 2) Rest, which restores health but doesn't progress your journey, and 3) Look for Food, which replenishes your supplies but also takes time. Manage your choices wisely to ensure both you and Appa make it to your destination safely.
